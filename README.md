@@ -1,5 +1,7 @@
 # azuread_application_pre_authorized does not properly destroy
 
+[#1296](https://github.com/hashicorp/terraform-provider-azuread/issues/1296)
+
 ## Steps to reproduce
 
 ```bash
